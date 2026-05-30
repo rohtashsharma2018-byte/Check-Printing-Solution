@@ -1,0 +1,6 @@
+{
+  "name": "Cheque Printer",
+  "description": "A web application for importing cheque data from CSV and generating printable PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
